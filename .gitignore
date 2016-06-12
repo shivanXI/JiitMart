@@ -1,0 +1,10 @@
+import java.io.*;
+class vectordemo{
+    public static void main(String[] args){
+	Scanner sc = new Scanner(System.in);
+	int m=sc.nextInt();
+	int n=sc.nextInt();
+	 Vector<Vector<Integer>> list = new Vector<Vector<Integer>>(m,n);
+	
+	}
+}
